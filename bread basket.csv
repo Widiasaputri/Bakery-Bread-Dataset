@@ -14266,7 +14266,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 6881,Alfajores,19-02-2017 14:23,afternoon,weekend
 6882,Cake,19-02-2017 14:33,afternoon,weekend
 6882,Cake,19-02-2017 14:33,afternoon,weekend
-6882,Coffee granules ,19-02-2017 14:33,afternoon,weekend
+6882,Coffee granules,19-02-2017 14:33,afternoon,weekend
 6883,Coffee,19-02-2017 14:35,afternoon,weekend
 6883,Salad,19-02-2017 14:35,afternoon,weekend
 6883,Cake,19-02-2017 14:35,afternoon,weekend
@@ -16180,7 +16180,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 7707,Chicken Stew,06-03-2017 14:04,afternoon,weekday
 7708,Coffee,06-03-2017 14:22,afternoon,weekday
 7708,Juice,06-03-2017 14:22,afternoon,weekday
-7708,Drinking chocolate spoons ,06-03-2017 14:22,afternoon,weekday
+7708,Drinking chocolate spoons,06-03-2017 14:22,afternoon,weekday
 7709,Bread,06-03-2017 14:26,afternoon,weekday
 7709,Sandwich,06-03-2017 14:26,afternoon,weekday
 7709,Coffee,06-03-2017 14:26,afternoon,weekday
@@ -16752,7 +16752,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 7959,Cake,11-03-2017 12:51,afternoon,weekend
 7960,Pastry,11-03-2017 12:55,afternoon,weekend
 7961,Brownie,11-03-2017 13:04,afternoon,weekend
-7961,Drinking chocolate spoons ,11-03-2017 13:04,afternoon,weekend
+7961,Drinking chocolate spoons,11-03-2017 13:04,afternoon,weekend
 7961,Bread,11-03-2017 13:04,afternoon,weekend
 7961,Coffee,11-03-2017 13:04,afternoon,weekend
 7961,Sandwich,11-03-2017 13:04,afternoon,weekend
@@ -16924,7 +16924,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 8032,Cookies,12-03-2017 13:56,afternoon,weekend
 8032,Medialuna,12-03-2017 13:56,afternoon,weekend
 8032,Scone,12-03-2017 13:56,afternoon,weekend
-8033,Half slice Monster ,12-03-2017 13:58,afternoon,weekend
+8033,Half slice Monster,12-03-2017 13:58,afternoon,weekend
 8033,Tiffin,12-03-2017 13:58,afternoon,weekend
 8033,Coffee,12-03-2017 13:58,afternoon,weekend
 8033,Juice,12-03-2017 13:58,afternoon,weekend
@@ -16945,7 +16945,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 8040,Coffee,12-03-2017 14:30,afternoon,weekend
 8041,Bread,12-03-2017 14:32,afternoon,weekend
 8041,Mineral water,12-03-2017 14:32,afternoon,weekend
-8041,Drinking chocolate spoons ,12-03-2017 14:32,afternoon,weekend
+8041,Drinking chocolate spoons,12-03-2017 14:32,afternoon,weekend
 8041,Coffee,12-03-2017 14:32,afternoon,weekend
 8042,Hot chocolate,12-03-2017 14:33,afternoon,weekend
 8043,Tea,12-03-2017 14:43,afternoon,weekend
@@ -17464,7 +17464,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 8303,Cake,17-03-2017 13:37,afternoon,weekday
 8303,Cake,17-03-2017 13:37,afternoon,weekday
 8303,Brownie,17-03-2017 13:37,afternoon,weekday
-8304,Half slice Monster ,17-03-2017 13:37,afternoon,weekday
+8304,Half slice Monster,17-03-2017 13:37,afternoon,weekday
 8305,Coffee,17-03-2017 13:50,afternoon,weekday
 8305,Coffee,17-03-2017 13:50,afternoon,weekday
 8305,Mineral water,17-03-2017 13:50,afternoon,weekday
@@ -17476,7 +17476,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 8307,Soup,17-03-2017 13:54,afternoon,weekday
 8307,Sandwich,17-03-2017 13:54,afternoon,weekday
 8308,Coffee,17-03-2017 14:06,afternoon,weekday
-8308,Coffee granules ,17-03-2017 14:06,afternoon,weekday
+8308,Coffee granules,17-03-2017 14:06,afternoon,weekday
 8308,Extra Salami or Feta,17-03-2017 14:06,afternoon,weekday
 8308,Salad,17-03-2017 14:06,afternoon,weekday
 8310,Salad,17-03-2017 14:22,afternoon,weekday
@@ -17671,7 +17671,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 8397,Hot chocolate,18-03-2017 15:46,afternoon,weekend
 8397,Coffee,18-03-2017 15:46,afternoon,weekend
 8397,Cake,18-03-2017 15:46,afternoon,weekend
-8398,Half slice Monster ,18-03-2017 15:52,afternoon,weekend
+8398,Half slice Monster,18-03-2017 15:52,afternoon,weekend
 8399,Tea,18-03-2017 15:54,afternoon,weekend
 8399,Chicken Stew,18-03-2017 15:54,afternoon,weekend
 8400,Tea,18-03-2017 16:09,afternoon,weekend
@@ -17848,7 +17848,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 8469,Coffee,20-03-2017 10:51,morning,weekday
 8470,Coffee,20-03-2017 11:03,morning,weekday
 8471,Bread,20-03-2017 11:04,morning,weekday
-8472,Coffee granules ,20-03-2017 11:15,morning,weekday
+8472,Coffee granules,20-03-2017 11:15,morning,weekday
 8473,Cake,20-03-2017 11:25,morning,weekday
 8473,Muffin,20-03-2017 11:25,morning,weekday
 8473,Juice,20-03-2017 11:25,morning,weekday
@@ -18003,7 +18003,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 8550,Coffee,21-03-2017 15:46,afternoon,weekday
 8550,Cake,21-03-2017 15:46,afternoon,weekday
 8550,Bread,21-03-2017 15:46,afternoon,weekday
-8551,Half slice Monster ,21-03-2017 15:49,afternoon,weekday
+8551,Half slice Monster,21-03-2017 15:49,afternoon,weekday
 8551,Juice,21-03-2017 15:49,afternoon,weekday
 8551,Cookies,21-03-2017 15:49,afternoon,weekday
 8551,Coffee,21-03-2017 15:49,afternoon,weekday
@@ -18236,7 +18236,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 8658,Bread,23-03-2017 15:48,afternoon,weekday
 8659,Coffee,23-03-2017 15:56,afternoon,weekday
 8660,Hot chocolate,23-03-2017 16:07,afternoon,weekday
-8660,Drinking chocolate spoons ,23-03-2017 16:07,afternoon,weekday
+8660,Drinking chocolate spoons,23-03-2017 16:07,afternoon,weekday
 8661,Tiffin,23-03-2017 16:34,afternoon,weekday
 8661,Smoothies,23-03-2017 16:34,afternoon,weekday
 8661,Coffee,23-03-2017 16:34,afternoon,weekday
@@ -18412,7 +18412,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 8739,Bread,25-03-2017 10:09,morning,weekend
 8739,Hot chocolate,25-03-2017 10:09,morning,weekend
 8739,Hot chocolate,25-03-2017 10:09,morning,weekend
-8739,Drinking chocolate spoons ,25-03-2017 10:09,morning,weekend
+8739,Drinking chocolate spoons,25-03-2017 10:09,morning,weekend
 8739,Muffin,25-03-2017 10:09,morning,weekend
 8739,Pastry,25-03-2017 10:09,morning,weekend
 8740,Scandinavian,25-03-2017 10:10,morning,weekend
@@ -18455,7 +18455,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 8756,Bread,25-03-2017 11:13,morning,weekend
 8756,Cake,25-03-2017 11:13,morning,weekend
 8757,Farm House,25-03-2017 11:21,morning,weekend
-8757,Coffee granules ,25-03-2017 11:21,morning,weekend
+8757,Coffee granules,25-03-2017 11:21,morning,weekend
 8758,Coffee,25-03-2017 11:35,morning,weekend
 8758,Bread,25-03-2017 11:35,morning,weekend
 8758,Muffin,25-03-2017 11:35,morning,weekend
@@ -18582,7 +18582,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 8811,Bread,25-03-2017 15:25,afternoon,weekend
 8812,Bread,25-03-2017 15:25,afternoon,weekend
 8813,Cake,25-03-2017 15:31,afternoon,weekend
-8813,Half slice Monster ,25-03-2017 15:31,afternoon,weekend
+8813,Half slice Monster,25-03-2017 15:31,afternoon,weekend
 8814,Coffee,25-03-2017 15:35,afternoon,weekend
 8814,Juice,25-03-2017 15:35,afternoon,weekend
 8814,Juice,25-03-2017 15:35,afternoon,weekend
@@ -18617,7 +18617,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 8825,Juice,25-03-2017 17:09,evening,weekend
 8825,Cake,25-03-2017 17:09,evening,weekend
 8826,Mortimer,25-03-2017 17:15,evening,weekend
-8826,Coffee granules ,25-03-2017 17:15,evening,weekend
+8826,Coffee granules,25-03-2017 17:15,evening,weekend
 8827,Medialuna,26-03-2017 09:08,morning,weekend
 8827,Bread,26-03-2017 09:08,morning,weekend
 8828,Bread,26-03-2017 09:13,morning,weekend
@@ -19384,7 +19384,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 9175,Bread,01-04-2017 10:29,morning,weekend
 9176,Coffee,01-04-2017 10:30,morning,weekend
 9176,Scone,01-04-2017 10:30,morning,weekend
-9177,Coffee granules ,01-04-2017 10:31,morning,weekend
+9177,Coffee granules,01-04-2017 10:31,morning,weekend
 9178,Bread,01-04-2017 10:40,morning,weekend
 9178,Sandwich,01-04-2017 10:40,morning,weekend
 9178,Brownie,01-04-2017 10:40,morning,weekend
@@ -19673,7 +19673,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 9296,Bread,03-04-2017 11:22,morning,weekday
 9297,Coffee,03-04-2017 11:44,morning,weekday
 9297,Coffee,03-04-2017 11:44,morning,weekday
-9297,Coffee granules ,03-04-2017 11:44,morning,weekday
+9297,Coffee granules,03-04-2017 11:44,morning,weekday
 9298,The Nomad,03-04-2017 11:58,morning,weekday
 9299,Bread,03-04-2017 12:02,afternoon,weekday
 9300,Bread,03-04-2017 12:03,afternoon,weekday
@@ -20450,7 +20450,7 @@ Transaction,Item,date_time,period_day,weekday_weekend
 9653,Coffee,09-04-2017 10:39,morning,weekend
 9653,Cake,09-04-2017 10:39,morning,weekend
 9654,Hot chocolate,09-04-2017 10:52,morning,weekend
-9654,Half slice Monster ,09-04-2017 10:52,morning,weekend
+9654,Half slice Monster,09-04-2017 10:52,morning,weekend
 9654,My-5 Fruit Shoot,09-04-2017 10:52,morning,weekend
 9655,Tea,09-04-2017 11:14,morning,weekend
 9656,Coffee,09-04-2017 11:17,morning,weekend
